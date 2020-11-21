@@ -1,0 +1,12 @@
+{
+	"AgenteEnvia":"FRI:COMPWVIRTUAL163/USER",
+	"CelularRecibe":"922453865",
+	"Monto":"100",
+	"Moneda":"1",
+	"CodigoCliente":"",
+	"CodigoTransaccion":"0136",
+	"CodigoOficina":"007",
+	"CodigoUsuario":"0655",
+	"IdSession":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjQzNjkiLCJuYmYiOjE1NjgzMzMzNTMsImV4cCI6MTU2ODMzNTE1MywiaWF0IjoxNTY4MzMzMzUzLCJpc3MiOiIuIiwiYXVkIjoiLiJ9.V5Xy7dxArxKCNzGOhzg3ShBNnkerMjhb8iXFgI7niB4",
+	"UsuarioPassword":"COMPWVIRTUAL163:CF.4g3nt3.V"
+}
